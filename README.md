@@ -12,5 +12,8 @@ This dashboard is design to allow monitoring of clinical risk stratification mod
 
 An example of the app with some synthetically generated sample data can be seen here:
 
+![Screenshot](img/screenshot.png)
+
+
 
 
