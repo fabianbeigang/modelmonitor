@@ -1,4 +1,4 @@
-# Risk stratification model monitoring dashboard
+# Monitoring dashboard for risk stratification models
 
 ## About this app
 
