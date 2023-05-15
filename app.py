@@ -93,14 +93,13 @@ def update_graph(sex, age, model, start_month, end_month, run_id, site, op_type,
 
 ## START APP
 
-# if __name__ == '__main__':
-#     app.run_server(debug=False)
-
 # Create Dash app
 app = dash.Dash(__name__)
 
 # For Gunicorn to run the app correctly
 server = app.server
 
+if __name__ == '__main__':
+    app.run_server(debug=False)
 
        
